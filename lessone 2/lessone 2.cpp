@@ -2,12 +2,11 @@
 #include "pch.h"
 #include <iostream>
 #include <iterator>
-#include "Buffering.h" //התרגיל המרכזי
+#include "Buffering.h" //The main exercise
 
 //lesson 2
 
-//התרגיל המרכזי בקובץ נפרד - Buffering
-
+// The main exercise in a separate file - Buffering.cpp
 
 void PrintArr(int arr[], int len)
 {
